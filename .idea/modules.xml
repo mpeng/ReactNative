@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native/local-cli/core/__fixtures__/__fixtures__.iml" filepath="$PROJECT_DIR$/node_modules/react-native/local-cli/core/__fixtures__/__fixtures__.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native/local-cli/link/__fixtures__/android/android.iml" filepath="$PROJECT_DIR$/node_modules/react-native/local-cli/link/__fixtures__/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/generated/source/r/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/generated/source/r/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/generated/source/buildConfig/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/generated/source/buildConfig/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-payments-stripe/android/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/node_modules/expo-payments-stripe/android/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/intermediates/manifests/aapt/debug/debug.iml" filepath="$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/intermediates/manifests/aapt/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/jni/jni.iml" filepath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/jni/jni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-file-system-interface/android/src/main/main.iml" filepath="$PROJECT_DIR$/node_modules/expo-file-system-interface/android/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-barcode-scanner-interface/android/src/main/main1.iml" filepath="$PROJECT_DIR$/node_modules/expo-barcode-scanner-interface/android/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/main10.iml" filepath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-print/android/src/main/main11.iml" filepath="$PROJECT_DIR$/node_modules/expo-print/android/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-permissions/android/src/main/main12.iml" filepath="$PROJECT_DIR$/node_modules/expo-permissions/android/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-sensors-interface/android/src/main/main13.iml" filepath="$PROJECT_DIR$/node_modules/expo-sensors-interface/android/src/main/main13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-constants/android/src/main/main14.iml" filepath="$PROJECT_DIR$/node_modules/expo-constants/android/src/main/main14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-sensors/android/src/main/main15.iml" filepath="$PROJECT_DIR$/node_modules/expo-sensors/android/src/main/main15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-face-detector-interface/android/src/main/main16.iml" filepath="$PROJECT_DIR$/node_modules/expo-face-detector-interface/android/src/main/main16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-camera-interface/android/src/main/main17.iml" filepath="$PROJECT_DIR$/node_modules/expo-camera-interface/android/src/main/main17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-svg/android/src/main/main18.iml" filepath="$PROJECT_DIR$/node_modules/react-native-svg/android/src/main/main18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-local-authentication/android/src/main/main19.iml" filepath="$PROJECT_DIR$/node_modules/expo-local-authentication/android/src/main/main19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-contacts/android/src/main/main2.iml" filepath="$PROJECT_DIR$/node_modules/expo-contacts/android/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native/RNTester/android/app/src/main/main20.iml" filepath="$PROJECT_DIR$/node_modules/react-native/RNTester/android/app/src/main/main20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-branch/android/src/main/main21.iml" filepath="$PROJECT_DIR$/node_modules/react-native-branch/android/src/main/main21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/main22.iml" filepath="$PROJECT_DIR$/node_modules/react-native-reanimated/android/src/main/main22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-analytics-segment/android/src/main/main23.iml" filepath="$PROJECT_DIR$/node_modules/expo-analytics-segment/android/src/main/main23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-maps/lib/android/src/main/main24.iml" filepath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/src/main/main24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-file-system/android/src/main/main25.iml" filepath="$PROJECT_DIR$/node_modules/expo-file-system/android/src/main/main25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-font-interface/android/src/main/main26.iml" filepath="$PROJECT_DIR$/node_modules/expo-font-interface/android/src/main/main26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-location/android/src/main/main27.iml" filepath="$PROJECT_DIR$/node_modules/expo-location/android/src/main/main27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/lottie-react-native/src/android/src/main/main28.iml" filepath="$PROJECT_DIR$/node_modules/lottie-react-native/src/android/src/main/main28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-gl/android/src/main/main29.iml" filepath="$PROJECT_DIR$/node_modules/expo-gl/android/src/main/main29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-localization/android/src/main/main3.iml" filepath="$PROJECT_DIR$/node_modules/expo-localization/android/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-camera/android/src/main/main30.iml" filepath="$PROJECT_DIR$/node_modules/expo-camera/android/src/main/main30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-sms/android/src/main/main31.iml" filepath="$PROJECT_DIR$/node_modules/expo-sms/android/src/main/main31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/main32.iml" filepath="$PROJECT_DIR$/node_modules/react-native-screens/android/src/main/main32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-react-native-adapter/android/src/main/main33.iml" filepath="$PROJECT_DIR$/node_modules/expo-react-native-adapter/android/src/main/main33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/lib/src/main/main34.iml" filepath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/lib/src/main/main34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-gl-cpp/android/src/main/main35.iml" filepath="$PROJECT_DIR$/node_modules/expo-gl-cpp/android/src/main/main35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-media-library/android/src/main/main36.iml" filepath="$PROJECT_DIR$/node_modules/expo-media-library/android/src/main/main36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-barcode-scanner/android/src/main/main37.iml" filepath="$PROJECT_DIR$/node_modules/expo-barcode-scanner/android/src/main/main37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-view-shot/android/src/main/main38.iml" filepath="$PROJECT_DIR$/node_modules/react-native-view-shot/android/src/main/main38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-payments-stripe/android/src/main/main39.iml" filepath="$PROJECT_DIR$/node_modules/expo-payments-stripe/android/src/main/main39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-core/android/src/main/main4.iml" filepath="$PROJECT_DIR$/node_modules/expo-core/android/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/main40.iml" filepath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/src/main/main40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native-vector-icons/android/src/main/main41.iml" filepath="$PROJECT_DIR$/node_modules/react-native-vector-icons/android/src/main/main41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-ads-admob/android/src/main/main42.iml" filepath="$PROJECT_DIR$/node_modules/expo-ads-admob/android/src/main/main42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-font/android/src/main/main5.iml" filepath="$PROJECT_DIR$/node_modules/expo-font/android/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-face-detector/android/src/main/main6.iml" filepath="$PROJECT_DIR$/node_modules/expo-face-detector/android/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-image-loader-interface/android/src/main/main7.iml" filepath="$PROJECT_DIR$/node_modules/expo-image-loader-interface/android/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloWorld/android/app/src/main/main8.iml" filepath="$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloWorld/android/app/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-constants-interface/android/src/main/main9.iml" filepath="$PROJECT_DIR$/node_modules/expo-constants-interface/android/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/expo-payments-stripe/android/build/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/node_modules/expo-payments-stripe/android/build/generated/source/r/r1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/intermediates/manifests/aapt/release/release.iml" filepath="$PROJECT_DIR$/node_modules/lottie-react-native/src/android/build/intermediates/manifests/aapt/release/release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/test.iml" filepath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
