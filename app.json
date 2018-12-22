@@ -10,14 +10,16 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/icon2.png",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 1000
     },
     "assetBundlePatterns": [
       "**/*"
@@ -25,7 +27,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Provide Big Data Visualization through Mobile Devices Updated",
+    "description": "Provide Big Data Visualization through Mobile Devices Updated 6\n",
     "githubUrl": "https://github.com/mpeng/ReactNative"
   }
 }
