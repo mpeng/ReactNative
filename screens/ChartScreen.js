@@ -3,7 +3,7 @@ import { ExpoConfigView } from '@expo/samples';
 
 export default class ChartScreen extends React.Component {
   static navigationOptions = {
-    title: 'Big Data Visualization',
+    title: 'Big Data Visualization 3',
   };
 
   render() {
